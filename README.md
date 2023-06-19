@@ -1,5 +1,5 @@
-# PhotosPickerSWIFTUI
- PHOTOSUI photo picker with SWIFTUI
+# Photo Picker SwiftUI
+ PhotosUI photo picker with SWIFTUI
 
  | MainView  |
 | ------------- |
